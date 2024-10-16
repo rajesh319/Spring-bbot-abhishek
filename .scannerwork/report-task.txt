@@ -2,5 +2,5 @@ projectKey=Spring-boot
 serverUrl=http://13.201.193.202:9000
 serverVersion=10.6.0.92116
 dashboardUrl=http://13.201.193.202:9000/dashboard?id=Spring-boot
-ceTaskId=058bc850-3cb0-4ff4-bd15-117bbc432c7c
-ceTaskUrl=http://13.201.193.202:9000/api/ce/task?id=058bc850-3cb0-4ff4-bd15-117bbc432c7c
+ceTaskId=8f4ceba1-0ad0-4024-86a0-5c05d75f3db0
+ceTaskUrl=http://13.201.193.202:9000/api/ce/task?id=8f4ceba1-0ad0-4024-86a0-5c05d75f3db0
